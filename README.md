@@ -2,4 +2,4 @@
 This repoistory contains all the projects I've translated (or took part in their translation).
 
 ### ⛏️ Minecraft mods
-[IAM Music Player Mod](https://github.com/TeamFelnull/IamMusicPlayer/pull/16)
+[IAM Music Player Mod](https://github.com/TeamFelnull/IamMusicPlayer/pull/16) [(updated version)](https://github.com/TeamFelnull/IamMusicPlayer/pull/22)
