@@ -1,5 +1,7 @@
-# 👨‍💻 Translated Github projects
-This repoistory contains all the projects I've translated (or took part in their translation).
+# 👨‍💻 Maintained projects
+This repoistory contains all the projects I've took part in.
+
+# 🎓 Translations
 
 ### ⛏️ Minecraft mods
 [IAM Music Player Mod](https://github.com/TeamFelnull/IamMusicPlayer/pull/16) [(updated version)](https://github.com/TeamFelnull/IamMusicPlayer/pull/22)
@@ -17,3 +19,7 @@ This repoistory contains all the projects I've translated (or took part in their
 
 ### ✍️ Other projects
 [Crowdin](https://crowdin.com/project/crowdin/ru)
+
+# ⚙️ Technical decisions
+[SCP: Overtime](https://www.curseforge.com/minecraft/mc-mods/scp-overtime) (sound compression)
+[Site Overseer](https://github.com/SfortzaPhantom/SiteOverseer) (Python script for checking the site)
