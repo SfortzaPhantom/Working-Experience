@@ -22,4 +22,5 @@ This repoistory contains all the projects I've took part in.
 
 # ⚙️ Technical decisions
 [SCP: Overtime](https://www.curseforge.com/minecraft/mc-mods/scp-overtime) (sound compression)
+
 [Site Overseer](https://github.com/SfortzaPhantom/SiteOverseer) (Python script for checking the site)
