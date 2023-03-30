@@ -17,8 +17,10 @@ All translations are done from English to Russian unless other stated.
 
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
-Stream of Consequences (DDLC)
-Sayori Date (DDLC; proofreading)
+
+Stream of Consequences (DDLC, not released yet)
+
+Sayori Date (DDLC; proofreading, not released yet)
 
 ### ✍️ Other projects
 [Crowdin](https://crowdin.com/project/crowdin/ru)
