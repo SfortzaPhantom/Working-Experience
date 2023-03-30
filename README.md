@@ -1,5 +1,6 @@
 # 👨‍💻 Maintained projects
 This repoistory contains all the projects I've took part in.
+All translations are done from English to Russian unless other stated.
 
 # 🎓 Translations
 
@@ -15,7 +16,9 @@ This repoistory contains all the projects I've took part in.
 [Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru)
 
 ### 📕 Visual novels
-[Machine Libra (DDLC)](https://drive.google.com/file/d/1pJNRUfiBGUxmNQaeOCgKspg6O3YshHy6/view?usp=sharing)
+[Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
+Stream of Consequences (DDLC)
+Sayori Date (DDLC; proofreading)
 
 ### ✍️ Other projects
 [Crowdin](https://crowdin.com/project/crowdin/ru)
