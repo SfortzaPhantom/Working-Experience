@@ -15,6 +15,8 @@ All translations are done from English to Russian unless other stated.
 
 [Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru)
 
+[EyeMod](https://github.com/Podloot/EyeMod/pull/1)
+
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
 
