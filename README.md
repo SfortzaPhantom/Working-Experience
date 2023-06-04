@@ -18,9 +18,9 @@ All translations are done from English to Russian unless other stated.
 [EyeMod](https://github.com/Podloot/EyeMod/pull/1)
 
 ### 📕 Visual novels
-[Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
+[Machine Cancer (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
 
-Stream of Consequences (DDLC, not released yet)
+[Stream of Consequences (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/stream-of-consciousness?authuser=0)
 
 Sayori Date (DDLC; proofreading, not released yet)
 
