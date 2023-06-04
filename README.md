@@ -18,9 +18,13 @@ All translations are done from English to Russian unless other stated.
 [EyeMod](https://github.com/Podloot/EyeMod/pull/1)
 
 ### 📕 Visual novels
-[Machine Cancer (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer)
+[Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
 
-[Stream of Consequences (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/stream-of-consciousness?authuser=0)
+[Machine Cancer (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-cancer) (translation)
+
+[Vigilante (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/doki-doki-vigilante-chapters-123) (translation)
+
+[Stream of Consequences (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/stream-of-consciousness) (proofreading, translation)
 
 Sayori Date (DDLC; proofreading, not released yet)
 
