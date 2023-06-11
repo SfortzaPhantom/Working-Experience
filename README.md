@@ -5,17 +5,19 @@ All translations are done from English to Russian unless other stated.
 # 🎓 Translations
 
 ### ⛏️ Minecraft mods
-[IAM Music Player Mod](https://github.com/TeamFelnull/IamMusicPlayer/pull/16) [(updated version)](https://github.com/TeamFelnull/IamMusicPlayer/pull/22)
+[IAM Music Player Mod](https://github.com/TeamFelnull/IamMusicPlayer/pull/16) [[updated version]](https://github.com/TeamFelnull/IamMusicPlayer/pull/22)
 
 [Extra Utilities 2](https://github.com/rwtema/ExtraUtilities_Localization/pull/47)
 
-[Emotecraft](https://crowdin.com/project/emotecraft/ru)
+[Emotecraft](https://crowdin.com/project/emotecraft/ru) (proofreader, translator)
 
 [Time Travel Mod](https://crowdin.com/project/time-travel-mod/ru)
 
 [Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru)
 
 [EyeMod](https://github.com/Podloot/EyeMod/pull/1)
+
+[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)
 
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
