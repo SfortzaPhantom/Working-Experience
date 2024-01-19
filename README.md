@@ -1,6 +1,8 @@
 # 👨‍💻 Completed and maintained projects
 This repoistory contains all the projects I've took part in.
+
 All Minecraft mod translations are done from English to Russian unless other stated. Unapproved translations are _highlighted in italic_ (you should install them by modifying your local mod file).
+
 All visual novels are translated from English to Russian.
 
 # 🎓 Translations
@@ -10,17 +12,17 @@ All visual novels are translated from English to Russian.
 
 _[Extra Utilities 2](https://github.com/rwtema/ExtraUtilities_Localization/pull/47)_ (2023)
 
-[Emotecraft](https://crowdin.com/project/emotecraft/ru) (proofreader, translator, official Discord server moderator) (20
+[Emotecraft](https://crowdin.com/project/emotecraft/ru) (proofreader, translator, official Discord server moderator) (2023)
 
-_[Time Travel Mod](https://crowdin.com/project/time-travel-mod/ru)_
+_[Time Travel Mod](https://crowdin.com/project/time-travel-mod/ru)_ (2023)
 
-_[Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru)
+_[Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru) (2022)
 
-[EyeMod](https://github.com/Podloot/EyeMod165/pull/1)_
+[EyeMod](https://github.com/Podloot/EyeMod165/pull/1)_ (2023)
 
-_[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_
+_[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (2023)
 
-_JujutsuCraft (commercial request, exclusive)_
+_JujutsuCraft (commercial request, exclusive)_ (2023)
 
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
