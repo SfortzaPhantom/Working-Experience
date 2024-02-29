@@ -18,7 +18,7 @@ _[Time Travel Mod](https://crowdin.com/project/time-travel-mod/ru)_ (2023)
 
 _[Vic's Modern Warfare](https://crowdin.com/project/vics-modern-warfare/ru)  (frozen for now)_ (2022)
 
-[EyeMod](https://github.com/Podloot/EyeMod165/pull/1)_ (2023)
+_[EyeMod](https://github.com/Podloot/EyeMod165/pull/1)_ (2023)
 
 _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (2023)
 
