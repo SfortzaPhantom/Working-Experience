@@ -16,13 +16,13 @@ _[Extra Utilities 2](https://github.com/rwtema/ExtraUtilities_Localization/pull/
 
 _[Time Travel Mod](https://crowdin.com/project/time-travel-mod/ru)_ (2023)
 
-_[Vic's Modern Warfare (frozen for now)](https://crowdin.com/project/vics-modern-warfare/ru) (2022)
+_[Vic's Modern Warfare](https://crowdin.com/project/vics-modern-warfare/ru)  (frozen for now)_ (2022)
 
 [EyeMod](https://github.com/Podloot/EyeMod165/pull/1)_ (2023)
 
 _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (2023)
 
-_JujutsuCraft (commercial request, exclusive)_ (2023)
+_JujutsuCraft (commercial request, exclusive)_ (2024)
 
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
