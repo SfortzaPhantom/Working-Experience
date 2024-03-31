@@ -1,7 +1,7 @@
 # 👨‍💻 Completed and maintained projects
 This repoistory contains all the projects I've took part in.
 
-All Minecraft mod translations are done from English to Russian unless other stated. Unapproved translations are _highlighted in italic_ (you should install them by modifying your local mod file).
+All Minecraft mod translations are done from English to Russian unless other stated. Unapproved / unavailable translations are _highlighted in italic_ (you should install them by modifying your local mod file).
 
 All visual novels are translated from English to Russian.
 
