@@ -42,3 +42,7 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 [SCP: Overtime](https://www.curseforge.com/minecraft/mc-mods/scp-overtime) (sound compression)
 
 [Site Overseer](https://github.com/SfortzaPhantom/SiteOverseer) (Python script for checking the site)
+
+# 🤝 Moderated projects
+[Exodus](https://discord.gg/duqJJhY98s) (trial moderator)
+Vanguard SSO (Russian Minecraft military RP project; administrator)
