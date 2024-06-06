@@ -24,6 +24,9 @@ _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (
 
 _JujutsuCraft (commercial request, exclusive)_ (2024)
 
+[Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community helper) (2024)
+[Submods and packs for TaC: Zero](https://crowdin.com/project/tacz-submods) (owner, proofreader) (2024)
+
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
 
@@ -44,5 +47,5 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 [Site Overseer](https://github.com/SfortzaPhantom/SiteOverseer) (Python script for checking the site)
 
 # 🤝 Moderated projects
-[Exodus](https://discord.gg/duqJJhY98s) (trial moderator)
+[Exodus](https://discord.gg/duqJJhY98s) (moderator)
 Vanguard SSO (Russian Minecraft military RP project; administrator)
