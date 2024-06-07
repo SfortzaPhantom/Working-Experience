@@ -48,4 +48,5 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 
 # 🤝 Moderated projects
 [Exodus](https://discord.gg/duqJJhY98s) (moderator)
+
 [Vanguard SSO](https://discord.gg/sAKTxUVywY) (Russian Minecraft military RP project; administrator)
