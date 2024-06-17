@@ -25,6 +25,7 @@ _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (
 _JujutsuCraft (commercial request, exclusive)_ (2024)
 
 [Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community helper) (2024)
+
 [Submods and packs for TaC: Zero](https://crowdin.com/project/tacz-submods) (owner, proofreader) (2024)
 
 ### 📕 Visual novels
