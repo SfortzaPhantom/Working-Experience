@@ -24,7 +24,7 @@ _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (
 
 _JujutsuCraft (commercial request, exclusive)_ (2024)
 
-[Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community helper) (2024)
+[Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community moderator) (2024)
 
 [Submods and packs for TaC: Zero](https://crowdin.com/project/tacz-submods) (owner, proofreader) (2024)
 
@@ -39,6 +39,8 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 
 [A Date With Sayori(DDLC)](https://sites.google.com/view/theonetranslator/str-pr/a-date-with-sayori-2-0) (proofreading)
 
+[World of Dreams Act 2 (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/world-of-dreams-act-2) (translation)
+
 ### ✍️ Other projects
 [Crowdin](https://crowdin.com/project/crowdin/ru)
 
@@ -50,4 +52,9 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 # 🤝 Moderated projects
 [Exodus](https://discord.gg/duqJJhY98s) (moderator)
 
-[Vanguard SSO](https://discord.gg/sAKTxUVywY) (Russian Minecraft military RP project; administrator)
+[Vanguard SOF](https://discord.gg/sAKTxUVywY) (Russian Minecraft military RP project; administrator) (2022-2024)
+
+# 💡 Personal projects
+[Minecraft Training Grounds](https://mtraining.carrd.co) (Minecraft military project, COD-like; co-founder)
+
+[Forward Unto Dawn](https://forwarduntodawn.ru) (Visual novels development team; co-founder)
