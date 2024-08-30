@@ -28,6 +28,8 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 
 [Submods and packs for TaC: Zero](https://crowdin.com/project/tacz-submods) (owner, proofreader) (2024)
 
+[Cuffed](https://crowdin.com/project/cuffed) (proofreader, translator) (2024)
+
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
 
