@@ -24,11 +24,13 @@ _[uSkyBlock](https://github.com/rlf/uSkyBlock/pull/1300) (commercial request)_ (
 
 _JujutsuCraft (commercial request, exclusive)_ (2024)
 
-[Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community moderator) (2024)
+[Timeless and Classics: Zero](https://crowdin.com/project/tacz) (proofreader, translator, Russian community moderator, official Discord server moderator) (2024)
 
 [Submods and packs for TaC: Zero](https://crowdin.com/project/tacz-submods) (owner, proofreader) (2024)
 
 [Cuffed](https://crowdin.com/project/cuffed) (proofreader, translator) (2024)
+
+[Superb Warfare](https://crowdin.com/project/superbwarfare) (proofreader, translator) (2025)
 
 ### 📕 Visual novels
 [Machine Libra (DDLC)](https://sites.google.com/view/theonetranslator/str-pr/machine-libra) (translation)
