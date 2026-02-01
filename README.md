@@ -55,6 +55,8 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 
 _Altered AI (pet project; Python driver for using OpenRouter AIs in Discord)_
 
+_Photon (pet project; Minecraft anticheat system)_
+
 # 🤝 Moderated projects
 [Exodus](https://discord.gg/duqJJhY98s) (moderator) (2024-2025)
 
@@ -65,8 +67,8 @@ _Altered AI (pet project; Python driver for using OpenRouter AIs in Discord)_
 [A Russian Day](https://t.me/arussianday) (HOI4 modification; writer) (from 2026)
 
 # 💡 Personal projects
-[Minecraft Training Grounds](https://mtraining.carrd.co) (Minecraft military project, COD-like; co-founder)
+[Minecraft Training Grounds](https://mtraining.carrd.co) (Minecraft military project, COD-like; co-founder) (2024-2025)
 
 [Forward Unto Dawn](https://forwarduntodawn.ru) (Visual novels development team; co-founder) (2024)
 
-[Armored Warfare Events](https://t.me/aw_events) (manager) (from 2025)
+[Armored Warfare Events](https://t.me/aw_events) (Minecraft military project, COD-like; co-founder) (from 2025)
