@@ -3,6 +3,8 @@ This repoistory contains all the projects I've took part in.
 
 All Minecraft mod translations are done from English to Russian unless other stated. Unapproved / unavailable translations are _highlighted in italic_ (you should install them by modifying your local mod file).
 
+All Minecraft mods are written by vibecoding, take it or leave it. Unpublished mods are _highlighted in italic._
+
 All visual novels are translated from English to Russian.
 
 # 🎓 Translations
@@ -48,14 +50,21 @@ _JujutsuCraft (commercial request, exclusive)_ (2024)
 ### ✍️ Other projects
 [Crowdin](https://crowdin.com/project/crowdin/ru)
 
+# 💻 Modding
+[Gun Cosmetics](https://legacy.curseforge.com/minecraft/mc-mods/tacz-gun-cosmetics) (addition of skins and trinkets to Timeless and Classics Zero)
+
+_Update 1.1.8 for TACZ (pending approval; integrates Gun Cosmetics into base TACZ)_
+
+_PlayerRevive fixes (pet project; updating CreativeMD's mod with several cool things related to BF mode)_
+
+_Photon API (pet project; Minecraft anticheat system)_
+
 # ⚙️ Technical decisions
 [SCP: Overtime](https://www.curseforge.com/minecraft/mc-mods/scp-overtime) (sound compression)
 
 [Site Overseer](https://github.com/SfortzaPhantom/SiteOverseer) (Python script for checking the site)
 
 _Altered AI (pet project; Python driver for using OpenRouter AIs in Discord)_
-
-_Photon (pet project; Minecraft anticheat system)_
 
 # 🤝 Moderated projects
 [Exodus](https://discord.gg/duqJJhY98s) (moderator) (2024-2025)
@@ -68,7 +77,5 @@ _Photon (pet project; Minecraft anticheat system)_
 
 # 💡 Personal projects
 [Minecraft Training Grounds](https://mtraining.carrd.co) (Minecraft military project, COD-like; co-founder) (2024-2025)
-
-[Forward Unto Dawn](https://forwarduntodawn.ru) (Visual novels development team; co-founder) (2024)
 
 [Armored Warfare Events](https://t.me/aw_events) (Minecraft military project, COD-like; co-founder) (from 2025)
